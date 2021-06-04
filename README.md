@@ -14,7 +14,7 @@ Tkinter and tedchou12/webull python api
 
 This order with 10 buy in levels buys more the lower the dip
 
-![UI IMG](C:\Users\Anthony\Documents\GitHub\Weighted-Order-Placer-Webull-with-User-Interface\UI.jpg)
+![UI IMG](https://github.com/Intradyne/-Webull-Weighted-Spread-Order-with-User-Interface/blob/main/UI.jpg)
 
 Clicking the preview order button will return the following in the terminal and not try to log in to webull. Note that a negative quantity will be a sell order and the higher price should be the favored value.
 
